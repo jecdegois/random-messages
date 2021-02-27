@@ -14,7 +14,15 @@
   "author": "José Castro <jecdegois12345@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecdegois/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jecdegois/random-messages/issues"
+  },
+  "homepage": "https://github.com/jecdegois/random-messages#readme"
 }
